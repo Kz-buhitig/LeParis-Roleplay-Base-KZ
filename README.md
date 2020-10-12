@@ -16,7 +16,7 @@
 
 - Lien pour les VEHICULES (Obligatoire) : UPLOAD ⏰
 - Lien pour les MAPPING (Obligatoire) : UPLOAD ⏰
-- Lien pour les EUP (Vêtements, pas obligatoire) : UPLOAD ⏰
+- Lien pour les EUP (Vêtements, pas obligatoire) : https://mega.nz/file/On4kWJQb#dKCAtpKJbC4vZqU1zC-XoBV9ql-fhAnOTQIZGqV0CqE
 
 Contributeur Principal : KZ#5669
 Contributeur Secondaire : Charly & LC
