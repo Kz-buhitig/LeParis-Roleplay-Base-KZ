@@ -2,7 +2,8 @@
 
 - Gameplay pour une ville Francaise.
 - A utiliser sans modération.
-- Pour allé plus vite, rechercher simplement le terme "change-me" afin de le remplacer par le nom de votre serveur.
+
+
 
 - Il y a quelques petites choses a changer car la base n'est pas fini. Vous les verrez en court de route.
 
