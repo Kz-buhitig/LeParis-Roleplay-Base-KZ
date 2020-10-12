@@ -10,6 +10,8 @@
     discordroles (Token & ID GUILD)
     kz-miniwl (ID ROLE)
 
+- Autres choses : Points pour le job Amublance, fourières etc... a voir IG directement.
+
 - Vous pouvez supprimer / commenté les Script WL et décommenter les équivalent sans WL
 
 - Lien pour les VEHICULES (Obligatoire) : 
@@ -19,4 +21,4 @@ Contributeur Principal : KZ#5669
 Contributeur Secondaire : Charly & LC
 
 
-- UNE VERSION TOTALEMENT FIX arrivera prochainement.
+- UNE VERSION TOTALEMENT FIX & plus optimisé arrivera bientôt (peut être).
