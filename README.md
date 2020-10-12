@@ -16,7 +16,7 @@
 - Vous pouvez supprimer / commenté les Script WL et décommenter les équivalent sans WL
 
 - Lien pour les VEHICULES (Obligatoire) : https://mega.nz/file/muAm0LaA#ogKfwRb3PKVczpEwUHh-N2UIi1BoJ_un8AWWqwnYWws
-- Lien pour les MAPPING (Obligatoire) : UPLOAD ⏰
+- Lien pour les MAPPING (Obligatoire) : https://mega.nz/file/X3ASWb5Y#e_B6KLCmsiNRnvLgWKHPK3BY_Jai_86TGH9nUjJBIEg
 - Lien pour les EUP (Vêtements, pas obligatoire) : https://mega.nz/file/On4kWJQb#dKCAtpKJbC4vZqU1zC-XoBV9ql-fhAnOTQIZGqV0CqE
 
 Contributeur Principal : KZ#5669
