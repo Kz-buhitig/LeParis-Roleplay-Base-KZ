@@ -14,7 +14,9 @@
 
 - Vous pouvez supprimer / commenté les Script WL et décommenter les équivalent sans WL
 
-- Lien pour les VEHICULES & MAPPING(Obligatoire) : 
+- Lien pour les VEHICULES (Obligatoire) : 
+- Lien pour les MAPPING (Obligatoire) : 
+- Lien pour les EUP (Vêtements, pas obligatoire) : 
 
 Contributeur Principal : KZ#5669
 Contributeur Secondaire : Charly & LC
