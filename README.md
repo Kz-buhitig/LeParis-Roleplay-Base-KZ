@@ -1,6 +1,6 @@
 # LeParis-Roleplay-Base-KZ
 
-- Gameplay pour une ville Francaise.
+- Gameplay pour une ville Francaise (a finir).
 - A utiliser sans modération.
 
 
