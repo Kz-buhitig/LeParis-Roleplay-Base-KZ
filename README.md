@@ -6,10 +6,17 @@
 
 - Il y a quelques petites choses a changer car la base n'est pas fini. Vous les verrez en court de route.
 
+- A modifier en priorité :
+    discordroles (Token & ID GUILD)
+    kz-miniwl (ID ROLE)
 
+- Vous pouvez supprimer / commenté les Script WL et décommenter les équivalent sans WL
 
 - Lien pour les VEHICULES (Obligatoire) : 
 - Lien pour le MAPPING (Obligatoire) : 
 
 Contributeur Principal : KZ#5669
 Contributeur Secondaire : Charly & LC
+
+
+- UNE VERSION TOTALEMENT FIX arrivera prochainement.
